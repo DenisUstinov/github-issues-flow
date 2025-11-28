@@ -1,0 +1,43 @@
+- name: blocked
+  description: "Temporary block"
+  color: "#b60205"
+
+- name: chore
+  description: "Routine tasks"
+  color: "#C0C0C0"
+
+- name: daily
+  description: "Daily stand-up"
+  color: "#c5def5"
+
+- name: docs
+  description: "Documentation update"
+  color: "#006b75"
+
+- name: feat
+  description: "New feature"
+  color: "#0e8a16"
+
+- name: performance
+  description: "Performance improvement"
+  color: "#0052cc"
+
+- name: refactor
+  description: "Code refactoring"
+  color: "#635961"
+
+- name: review
+  description: "Code review"
+  color: "#e99695"
+
+- name: security
+  description: "Security related"
+  color: "#b60205"
+
+- name: test
+  description: "Testing work"
+  color: "#fbca04"
+
+- name: weekly
+  description: "Weekly sprint"
+  color: "#1d76db"
